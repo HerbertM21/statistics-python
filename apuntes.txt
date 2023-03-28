@@ -6,3 +6,7 @@ La funcion hypergeometrica se puede utilizar para calcular la probabilidad de qu
 
 ----------------------------------------------------------------------------
 
+La Ley de los grandes números establece que, en términos generales, a medida que se realizan más experimentos, 
+la media de los resultados se acerca al valor esperado de la variable aleatoria que se está midiendo. 
+En el caso del lanzamiento de una moneda, por ejemplo, la media de los resultados se acercará a 0.5 
+(el valor esperado) a medida que se realicen más lanzamientos.
