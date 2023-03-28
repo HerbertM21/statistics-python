@@ -1,0 +1,8 @@
+Se utiliza la funcion hypergeometrica para calcular la probabilidad de una distribucion binomial. La funcion hypergeometrica es una funcion de dos variables, que se define como:
+
+Donde: n es el numero de exitos en la muestra, N es el numero de ensayos en la muestra, K es el numero de exitos en la poblacion y n es el numero de ensayos en la poblacion.
+
+La funcion hypergeometrica se puede utilizar para calcular la probabilidad de que un numero de exitos en una muestra de ensayos sea igual a un numero dado. La funcion hypergeometrica se puede utilizar para calcular la probabilidad de que un numero de exitos en una muestra de ensayos sea igual a un numero dado. La funcion hypergeometrica se puede utilizar para calcular la probabilidad de que un numero de exitos en una muestra de ensayos sea igual a un numero dado.
+
+----------------------------------------------------------------------------
+
